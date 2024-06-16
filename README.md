@@ -66,9 +66,13 @@ gcc força_bruta_test3.c -o executavel
 ./executavel 
 
 4 4 2
+
 1 2 10
+
 1 3 15
+
 2 4 10
+
 3 4 5
 
 
